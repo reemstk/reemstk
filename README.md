@@ -1,4 +1,4 @@
-# Hi, I am Reems 👋 [<img align="right" src="./assets/img/icons/icons8-kaggle-32.png" style="height:30px; width:30px;">](https://www.kaggle.com/rtk2018) [<img align="right" src="./assets/img/icons/icons8-linkedin-50.png" style="height:30px; width:30px;">](https://www.linkedin.com/in/reemstk/) [<img align="right" src="./assets/img/icons/icons8-github-32.png" style="height:30px; width:30px;">](https://reemstk.github.io/) 
+# Hi, I am Reems 👋 [<img align="right" src="./img/icons8-kaggle-32.png" style="height:30px; width:30px;">](https://www.kaggle.com/rtk2018) [<img align="right" src="./img/icons8-linkedin-50.png" style="height:30px; width:30px;">](https://www.linkedin.com/in/reemstk/) [<img align="right" src="./img/icons8-github-32.png" style="height:30px; width:30px;">](https://reemstk.github.io/) 
 
 ![](https://komarev.com/ghpvc/?username=reemstk26&color=green)  
 
